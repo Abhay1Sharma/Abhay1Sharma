@@ -6,58 +6,21 @@
   
 </div>
 
-## 🚀 About Me
+# 💫 About Me:
+🚀 About Me<br>🔭 I’m currently working on: FindBuddy, a social platform designed to connect fitness enthusiasts and workout partners.<br><br>👯 I’m looking to collaborate on: Innovative Open Source projects that solve real-world problems.<br><br>🤝 I’m looking for help with: Advanced concepts in Software Engineering and scalable system design.<br><br>🌱 I’m currently learning: Mastering the MERN Stack and deepening my expertise in Data Structures & Algorithms (DSA).<br><br>💬 Ask me about: Full-stack development, Java, or how to build fitness-tech applications.<br><br>📫 How to reach me: Drop an email at abhyaas7@gmail.com or connect with me via GitHub issues.<br><br>⚡ Fun fact: I'm passionate about blending fitness with technology to build healthier communities.
 
-```mermaid
-graph TD
-    A[Abhay Sharma] --> B{Passionate About}
-    B --> C[Full Stack Dev]
-    B --> D[Fitness Tech]
-    B --> E[Open Source]
-    B --> F[DSA & Algorithms]
-    C --> G[React/Node.js]
-    D --> H[FindBuddy App]
-    E --> I[Contributions]
-    F --> J[Problem Solving]
 
-🔥 Tech Stack
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhay1Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhyaas7@gmail.com) 
 
-<div align="center">
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> <br /><br />
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" /> <br /><br />
-Database & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vite" /></div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhay1Sharma&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhay1Sharma&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay1Sharma&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhay1Sharma&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay1Sharma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay1Sharma&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" /> </div>
+---
+[![](https://visitcount.itsvg.in/api?id=Abhay1Sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhay1Sharma&theme=radical&no-frame=true&row=1&column=6&margin-w=15" /> </div>
-
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay1Sharma&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true" /> </div>
-
-🎯 Current Focus
-
-const abhay = {
-  learning: ["System Design", "Advanced React Patterns", "Microservices"],
-  building: "FindBuddy - Social Fitness Platform",
-  goals: ["Contribute to OSS", "Write Technical Blogs", "Mentor Junior Devs"],
-  funFact: "🏋️‍♂️ I code better after a good workout!"
-};
-
-🤝 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/Abhay1Sharma"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:abhyaas7@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Abhay1Sharma"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://abhay1sharma.github.io"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a></div>
-
-💡 Featured Project
-<div align="center"> <a href="https://github.com/Abhay1Sharma/FindBuddy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay1Sharma&repo=FindBuddy&theme=radical&hide_border=true&bg_color=0D1117" /> </a> </div>
-
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-💻 Code. 💪 Fitness. 🚀 Build.
-"Making the world healthier, one line of code at a time"
-
-</div> ```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
